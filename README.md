@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejandroperez01
 - 👀 I’m interested in programming in C++, videogames and music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C#, Ruby, Python...
 - 💞️ I’m looking to collaborate on any type of projects that I'm able to contribute
 - 📫 How to reach me: alu0101324067@ull.edu.es 
 
